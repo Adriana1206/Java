@@ -8,7 +8,7 @@ public class Calcolatrice {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Benvenuto nella calcolatrice!");
+        System.out.println("Calcolatrice!");
         System.out.println("Inserisci il primo numero:");
         double numero1 = scanner.nextDouble();
 
